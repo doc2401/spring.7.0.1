@@ -1,0 +1,7 @@
+Redirect 301 /spring-framework/reference/7.0-SNAPSHOT/integration/cds.html /spring-framework/reference/7.0-SNAPSHOT/integration/aot-cache.html
+Redirect 302 /spring-framework/reference/7.0 /spring-framework/reference
+Redirect 301 /spring-framework/reference/6.2-SNAPSHOT/integration/class-data-sharing.html /spring-framework/reference/6.2-SNAPSHOT/integration/cds.html
+Redirect 301 /spring-framework/reference/6.2/integration/class-data-sharing.html /spring-framework/reference/6.2/integration/cds.html
+Redirect 301 /spring-framework/reference/6.1-SNAPSHOT/integration/class-data-sharing.html /spring-framework/reference/6.1-SNAPSHOT/integration/cds.html
+Redirect 301 /spring-framework/reference/6.1/integration/class-data-sharing.html /spring-framework/reference/6.1/integration/cds.html
+Redirect 301 /spring-framework/reference/integration/cds.html /spring-framework/reference/integration/aot-cache.html

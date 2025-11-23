@@ -1,0 +1,1 @@
+sourceset_dependencies = '{":spring-webflux/main":[],":spring-beans/main":[],":spring-test/main":[],":spring-core/main":[],":spring-jdbc/main":[],":spring-webmvc/main":[],":spring-tx/main":[],":spring-messaging/main":[],":spring-r2dbc/main":[],":spring-web/main":[],":spring-context/main":[]}'
